@@ -22,4 +22,4 @@
 * Untar it in a folder then cd to that folder from the mysys bash window
 * Run `./configure --prefix=/c/MinGW && make && make install`
 * Cd to this project's folder
-* `make onenote_to_json`
+* `make one_note_to_json`
